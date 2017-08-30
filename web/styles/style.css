@@ -1,0 +1,27 @@
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+svg {
+  border: solid 1px gray;
+}
+
+.content {
+  display: flex;
+}
+
+.content .svg {
+}
+
+.content #detail {
+  padding: 0 20px;
+  width: 100%;
+}
+
+#detail .negative {
+  color: red
+}
+
+#detail .positive {
+  color: green
+}
